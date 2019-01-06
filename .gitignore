@@ -1,0 +1,10 @@
+# compiled files
+*.aux
+*.lbl
+*.log
+*.pdf
+*.synctex.gz
+*.bbl
+*.blg
+*.brf
+*.log
